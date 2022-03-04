@@ -7,7 +7,7 @@
 -->
 
 - 📫 How to reach me ...
-robert.dandorf@gmail.com
+- robert.dandorf@gmail.com
 
 
 <!---
